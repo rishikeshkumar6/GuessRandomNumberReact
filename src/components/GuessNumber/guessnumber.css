@@ -1,0 +1,23 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 130px;
+    padding: 40px;
+
+}
+.number{
+    border-radius: 10px;
+    margin: 10px;
+    height: 40px;
+    width: 300px;
+
+}
+.btnstyle{
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin: 10px;
+    height: 40px;
+    width: 150px;
+}
